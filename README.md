@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is [Kejia Chen] (陈可嘉). ✨
+# Hi there! 👋 My name is Kejia Chen (陈可嘉). ✨
 
 - I am a second-year Ph.D. student at ZJU, advised by Prof. Zunlei Feng and Prof. Jian Lou.
 - The long-term goal of my research is Trustworthy Machine Learning, with a focus on LLMs (Safety, Privacy, and Security).
